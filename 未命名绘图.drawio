@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T07:06:11.436Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="ZU3OKesslzziUjnC174R" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-08T07:09:01.780Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="g5-YOPXcBgYQiVloQc_a" version="22.1.17" type="github" pages="2">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1256" dy="981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2010" dy="1570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,18 +9,29 @@
             <mxPoint x="370.0000000000002" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3STBqGmthDvpHf1h-gc-104" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;Instrumental&lt;br&gt;variables&lt;br&gt;SNPs&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
+        <mxCell id="n3STBqGmthDvpHf1h-gc-104" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Instrumental&lt;br&gt;variables&lt;br&gt;SNPs&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="30" y="140" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="n3STBqGmthDvpHf1h-gc-105" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="n3STBqGmthDvpHf1h-gc-109" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;Exposures&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=0;rounded=1;glass=0;strokeWidth=0;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="190" width="182" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="n3STBqGmthDvpHf1h-gc-112" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="400" as="sourcePoint" />
-            <mxPoint x="460" y="350" as="targetPoint" />
+            <mxPoint x="562" y="239.38" as="sourcePoint" />
+            <mxPoint x="632" y="239.38" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3STBqGmthDvpHf1h-gc-109" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;Instrumental&lt;br&gt;variables&lt;br&gt;SNPs&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=0;rounded=1;glass=0;strokeWidth=0;perimeterSpacing=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="140" width="200" height="200" as="geometry" />
+        <mxCell id="OSgwVG4x6NvS1gZyjeYc-1" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;Outcomes&lt;br&gt;(Hemorrhoidal disease)&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=0;rounded=1;glass=0;strokeWidth=0;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="190" width="182" height="100" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="1qIgBPW-G-O9hSjA5nVU" name="第 2 页">
+    <mxGraphModel dx="1005" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
