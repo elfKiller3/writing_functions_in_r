@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T11:00:56.644Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="PTDXbXF_QNrtSdSD8Ifg" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-30T11:04:02.539Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="vPKi7VLo4Cq1e9hh_YZW" version="22.1.17" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2130" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2632" dy="1208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -25,20 +25,26 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;Pus specimens from&lt;br&gt;224/475(47.2%) patients&lt;br&gt;were gathered&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="20" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vhQLqTLsdzRF7huE607Q-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="429" y="625" as="targetPoint" />
-            <mxPoint x="429" y="460" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vhQLqTLsdzRF7huE607Q-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vhQLqTLsdzRF7huE607Q-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="160" as="targetPoint" />
             <mxPoint x="430" y="160" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Z7LuOWA7LTF9s-eRr0nH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vhQLqTLsdzRF7huE607Q-32" target="vhQLqTLsdzRF7huE607Q-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7LuOWA7LTF9s-eRr0nH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vhQLqTLsdzRF7huE607Q-32" target="vhQLqTLsdzRF7huE607Q-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vhQLqTLsdzRF7huE607Q-32" value="G(+)" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-40" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7LuOWA7LTF9s-eRr0nH-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vhQLqTLsdzRF7huE607Q-33" target="vhQLqTLsdzRF7huE607Q-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7LuOWA7LTF9s-eRr0nH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vhQLqTLsdzRF7huE607Q-33" target="vhQLqTLsdzRF7huE607Q-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vhQLqTLsdzRF7huE607Q-33" value="G(-)" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="220" y="340" width="120" height="60" as="geometry" />
@@ -49,17 +55,17 @@
         <mxCell id="vhQLqTLsdzRF7huE607Q-35" value="others" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="680" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vhQLqTLsdzRF7huE607Q-26" value="Escherichia coli" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;flipV=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-160" y="650" width="150" height="100" as="geometry" />
+        <mxCell id="vhQLqTLsdzRF7huE607Q-26" value="Hem. Streptococcus" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;flipV=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-90" y="535" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="vhQLqTLsdzRF7huE607Q-27" value="Escherichia coli" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;flipV=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="10" y="650" width="150" height="100" as="geometry" />
+        <mxCell id="vhQLqTLsdzRF7huE607Q-27" value="&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;Staphylococcus aureus&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;flipV=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="30" y="535" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="vhQLqTLsdzRF7huE607Q-28" value="Escherichia coli" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;flipV=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="640" width="150" height="100" as="geometry" />
+          <mxGeometry x="160" y="535" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="vhQLqTLsdzRF7huE607Q-29" value="Escherichia coli" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;flipV=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="339" y="640" width="150" height="100" as="geometry" />
+        <mxCell id="vhQLqTLsdzRF7huE607Q-29" value="&lt;div&gt;Bacteroides fra&lt;span style=&quot;background-color: initial; font-size: 10pt; font-family: STIX-Italic; font-style: italic;&quot;&gt;gilis&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;flipV=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="300" y="535" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="vhQLqTLsdzRF7huE607Q-44" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="vhQLqTLsdzRF7huE607Q-16" edge="1">
           <mxGeometry relative="1" as="geometry">
