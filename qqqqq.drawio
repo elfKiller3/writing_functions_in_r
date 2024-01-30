@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T03:36:02.096Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="wJF2ZrsrYMIiDAqMN_uO" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-30T03:36:09.798Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="ac1rfnRz-CAIlqppoyo7" version="22.1.17" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2503" dy="1121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,10 +49,10 @@
           <mxGeometry x="10" y="650" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="vhQLqTLsdzRF7huE607Q-28" value="Escherichia coli" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="660" width="150" height="100" as="geometry" />
+          <mxGeometry x="170" y="640" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="vhQLqTLsdzRF7huE607Q-29" value="Escherichia coli" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="860" y="670" width="150" height="100" as="geometry" />
+          <mxGeometry x="339" y="640" width="150" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
